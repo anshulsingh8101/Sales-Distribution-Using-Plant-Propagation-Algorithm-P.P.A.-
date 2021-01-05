@@ -12,4 +12,4 @@ There are four versions of P.S.O. studied by us.
   
   The comparision between all of them are below:
   
-  ![alt text]()
+  ![alt text](https://github.com/anshulsingh8101/Sales-Distribution-Using-Plant-Propagation-Algorithm-P.P.A.-/blob/main/AcroRd32_uLw7iGA7BL.png)
