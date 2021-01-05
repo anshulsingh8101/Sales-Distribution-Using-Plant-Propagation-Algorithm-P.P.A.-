@@ -1,0 +1,26 @@
+[1] 
+https://www.researchgate.net/publication/252321319_NatureInspired_Optimisation_Approaches_and_the_New_Plant_Propagation_Algorit
+hm
+
+[2] 
+Sulaiman,M., Salhi, A., Selamoglu, B.I.,Kirikchi, O.B.: A plant propagation
+algorithm for constrained engineering optimisation problems. Mathematical
+Problems in Engineering 627416, 10 pp (2014). doi:10.1155/2014/627416
+
+[3] 
+https://www.semanticscholar.org/paper/A-Seed-Based-Plant-PropagationAlgorithm%3A-The-Model-SulaimanSalhi/b9123912695c052ca5654b441ffd314f59e7daf7
+
+[4]
+https://books.google.com.bh/books?id=TwvNCwAAQBAJ&pg=PA61&lpg=PA61
+&dq=Sulaiman,M.,+Salhi,+A.:+A+Seedbased+plant+propagation+algorithm:+the+feeding+station+model.+Sci+World
++J+(2015)&source=bl&ots=94-
+_neKNn2&sig=ACfU3U2ALYdZnGDrQt4iJAP4AFqXzN3k6Q&hl=en&sa=X&ved=2
+ahUKEwio6dOUxK3tAhVQxUIHS6EAoIQ6AEwBXoECAcQAg#v=onepage&q=Sulaiman%2CM.%2C%20Salh
+i%2C%20A.%3A%20A%20Seedbased%20plant%20propagation%20algorithm%3A%20the%20feeding%20stati
+on%20model.%20Sci%20World%20J%20(2015)&f=false
+
+[5]
+http://www.ccsenet.org/journal/index.php/cis/article/view/5131
+
+[6]
+https://www.hindawi.com/journals/cin/2016/9482073/
